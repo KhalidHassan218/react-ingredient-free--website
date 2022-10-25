@@ -1,6 +1,6 @@
 # Description
 
-
+ffg
 Built a recipes app that gives the user the whole freedom to explore different recipes and feeling free to exclude any unwanted ingredient by a simple click or by searching for specific meal or an ingredient using the search bar . 
 
 ![Thumbnail](https://github.com/YuriDevAT/sos-animals/blob/main/public/ing-free.png)

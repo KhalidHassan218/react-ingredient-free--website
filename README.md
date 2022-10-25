@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+# Description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+Built a recipes app that gives the user the whole freedom to explore different recipes and feeling free to exclude any unwanted ingredient by a simple click or by searching for specific meal or an ingredient using the search bar . 
 
-In the project directory, you can run:
+![Thumbnail](https://github.com/YuriDevAT/sos-animals/blob/main/public/ing-free.png)
 
-### `npm start`
+Issues:
+1-some people have allergy towards some food .
+2-some people do not prefer some ingredients . For example, peanut butter , I do not like eating it or even its smell 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Solution : 
+Ing-free-app solved these issues by simply one click , gathering most unwanted ingredients ,so all you shloud is to click for instance , Soy-free , Dairy-free and so on , or you can search for an ingredient to explore plenty of recipes that has that ingredient.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Demo
 
-### `npm run build`
+Live view by clicking the badge: [![Vercel Status](https://img.shields.io/badge/Vercel-success-Green?logo=vercel)](https://react-ingredient-free-website-ofqo.vercel.app/)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+You can also clone the project and open it in localhost, or enjoy the preview
+video below instead :smile:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+# Contribution
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+To contribute to this project please check out the [contribution guidelines]().
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Prerequisits
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Before cloning/forking this project, make sure you have the following tools installed:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- [Git](https://git-scm.com/downloads)
+- [NodeJS](https://nodejs.org/en/download/)
 
-## Learn More
+## Installation
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. Fork the project
+2. Clone the project
+3. Follow the instructions in the console:
+4. Navigate to the project directory cd sos-animals
+5. Install the dependencies npm install
+6. Run the project npm start
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Contributors
 
-### Code Splitting
+[//]: contributor-faces
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<a href="https://github.com/KhalidHassan218"><img src="https://avatars.githubusercontent.com/u/54622834?v=4" title="Khalid Hassan" width="80" height="80"></a>
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[//]: contributor-faces
